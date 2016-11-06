@@ -1,0 +1,11 @@
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.config
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.vbprojResolveAssemblyReference.cache
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Resources.resources
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.vbproj.GenerateResource.Cache
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\bin\Debug\Buscaminas.xml
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.exe
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.xml
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.pdb
+D:\WS\Visual Studio 2015\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Frm1.resources
